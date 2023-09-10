@@ -1,0 +1,2 @@
+This is file01.txt
+but inside file02.txt :)
